@@ -1,0 +1,6 @@
+{
+  "name": "AtoM",
+  "description": "A premium luxury e-commerce platform for Egypt with bilingual Arabic/English support, an advanced customer shopping experience, and a comprehensive admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
